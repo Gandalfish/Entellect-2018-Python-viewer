@@ -14,6 +14,7 @@ Dependencies:
 =============
 pip install keyboard
 pip install matplotlib
+pip install Pillow
 
 #update this list if you find missing dependencies..
 
