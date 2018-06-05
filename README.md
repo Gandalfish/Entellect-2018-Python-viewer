@@ -1,5 +1,5 @@
 # Entellect-2018-Python-viewer
-Very basic match replay viewer, for python
+Very basic match replay viewer, for python 3.6
 
 How to operate:
 ===============
